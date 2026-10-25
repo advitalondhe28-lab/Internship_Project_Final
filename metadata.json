@@ -1,0 +1,6 @@
+{
+  "name": "SAFEGUARD — MP Police Traffic Command & AI Monitoring System",
+  "description": "AI-powered traffic monitoring, violation detection, and incident alert management system for Madhya Pradesh connected to City Command Centres and Bhopal Central SAFEGUARD Centre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
